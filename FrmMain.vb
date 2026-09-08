@@ -8,7 +8,7 @@
 ' the resize of an element that is already rotated, which is something I banged my head against
 ' for a few weeks before figuring out this solution.
 '
-' The code is released under Code Project Open License terms
+' The code is released under the MIT License,
 ' see the LICENSE file in this repository.
 ' Mentioning of this article is appreciated.
 '

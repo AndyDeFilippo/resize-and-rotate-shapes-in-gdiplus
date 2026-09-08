@@ -1,39 +1,21 @@
-The Code Project Open License (CPOL) 1.02
-=========================================
+MIT License
 
-Copyright (c) Andy De Filippo
+Copyright (c) 2017 Andy De Filippo
 
-This project, along with any associated source code and files, was originally
-published under The Code Project Open License (CPOL) 1.02 — the license under
-which the original article appeared — and remains licensed under those terms.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Note that CodeProject has shut down, and the canonical text of the CPOL is no
-longer hosted online. A summary of the terms follows.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Grant of rights
----------------
-
-You are granted a royalty-free, perpetual, worldwide license to use, modify and
-redistribute the source code and executables of this work, in whole or in part,
-in your own works, including commercial ones.
-
-Conditions
-----------
-
-  * You may not claim this work as your own, nor redistribute it as-is as
-    stand-alone source code or documentation.
-  * You may not use the author's name, logo or trademarks to endorse or promote
-    products derived from this work.
-  * You must not remove or alter this license or the copyright notice above in
-    copies you distribute.
-
-No warranty
------------
-
-This work is provided "as is", with no warranties or conditions of any kind,
-express or implied, including without limitation any warranty of merchantability
-or fitness for a particular purpose. The author bears no liability for any
-damages arising from its use.
-
-This summary is provided for convenience and is not a substitute for the
-original CPOL 1.02 text.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

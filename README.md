@@ -132,4 +132,8 @@ Resources/              hand_open.ico and rotate.cur mouse cursors
 
 ## License
 
-Licensed under [The Code Project Open License (CPOL) 1.02](LICENSE).
+Licensed under the [MIT License](LICENSE).
+
+The original CodeProject article was published under the Code Project Open
+License (CPOL) 1.02. As the sole author and copyright holder, I have relicensed
+this code under the MIT License.
