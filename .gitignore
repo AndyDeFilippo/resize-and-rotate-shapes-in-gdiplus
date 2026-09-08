@@ -1,0 +1,48 @@
+# ---- Build output ----
+[Bb]in/
+[Oo]bj/
+*.dll.config
+*.exe.config
+
+# ---- Visual Studio ----
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vbproj.user
+*.csproj.user
+*.vspscc
+*.vssscc
+*.userprefs
+*.cache
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.VisualState.xml
+*.opendb
+*.opensdf
+*.sdf
+UpgradeLog*.htm
+
+# ---- Legacy source control leftovers ----
+vssver.scc
+*.scc
+
+# ---- NuGet ----
+packages/
+*.nupkg
+project.lock.json
+
+# ---- OS ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ---- CodeProject article archive (kept locally, not published) ----
+*- CodeProject.html
+*- CodeProject_files/
+*.zip
