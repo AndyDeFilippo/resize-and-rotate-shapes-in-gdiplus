@@ -3,23 +3,37 @@ The Code Project Open License (CPOL) 1.02
 
 Copyright (c) Andy De Filippo
 
-This project, along with any associated source code and files, is licensed
-under The Code Project Open License (CPOL) 1.02, the license under which the
-original CodeProject article was published.
+This project, along with any associated source code and files, was originally
+published under The Code Project Open License (CPOL) 1.02 — the license under
+which the original article appeared — and remains licensed under those terms.
 
-The full text of the license is available at:
+Note that CodeProject has shut down, and the canonical text of the CPOL is no
+longer hosted online. A summary of the terms follows.
 
-    https://www.codeproject.com/info/cpol10.aspx
+Grant of rights
+---------------
 
-In short, the CPOL grants you a royalty-free, perpetual licence to use,
-modify and redistribute the source code and executables in your own works,
-including commercial ones, provided that:
+You are granted a royalty-free, perpetual, worldwide license to use, modify and
+redistribute the source code and executables of this work, in whole or in part,
+in your own works, including commercial ones.
 
-  * you do not claim the work as your own or redistribute it as-is as
-    stand-alone source code or documentation,
-  * you do not use the author's name or logo to endorse your products, and
-  * the work is provided "as is", with no warranties of any kind and no
-    liability on the part of the author.
+Conditions
+----------
 
-Please refer to the full licence text linked above for the authoritative and
-complete terms.
+  * You may not claim this work as your own, nor redistribute it as-is as
+    stand-alone source code or documentation.
+  * You may not use the author's name, logo or trademarks to endorse or promote
+    products derived from this work.
+  * You must not remove or alter this license or the copyright notice above in
+    copies you distribute.
+
+No warranty
+-----------
+
+This work is provided "as is", with no warranties or conditions of any kind,
+express or implied, including without limitation any warranty of merchantability
+or fitness for a particular purpose. The author bears no liability for any
+damages arising from its use.
+
+This summary is provided for convenience and is not a substitute for the
+original CPOL 1.02 text.

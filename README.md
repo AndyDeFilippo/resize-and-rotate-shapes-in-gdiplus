@@ -4,9 +4,9 @@ A mouse-driven shape editor for VB.NET / WinForms that implements **anchors** to
 move, resize and rotate a selection rectangle — including the awkward case of
 resizing a rectangle that is *already rotated*.
 
-> Originally published on CodeProject as
-> [Resize and Rotate Shapes in GDI+](https://www.codeproject.com/Tips/1223125/Resize-and-Rotate-Shapes-in-GDIplus)
-> by Andy De Filippo.
+> Originally published as a CodeProject tip, "Resize and Rotate Shapes in GDI+",
+> by Andy De Filippo. CodeProject has since shut down, so this repository is now
+> the home of both the article text and its source code.
 
 ![Screenshot of the shape editor](docs/images/screenshot.png)
 

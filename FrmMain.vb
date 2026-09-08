@@ -9,7 +9,7 @@
 ' for a few weeks before figuring out this solution.
 '
 ' The code is released under Code Project Open License terms
-' see: https://www.codeproject.com/info/cpol10.aspx
+' see the LICENSE file in this repository.
 ' Mentioning of this article is appreciated.
 '
 ' All code was written by me, except where indicated with a link to the source.
